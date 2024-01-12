@@ -6,10 +6,10 @@ Supports both Light and Dark mode.
 
 ## Preview Images
 
-![Image 1](./demo-images/image1)
-![Image 2](./demo-images/image2)
-![Image 3](./demo-images/image3)
-![Image 4](./demo-images/image4)
+![Image 1](./demo-images/image1.jpg)
+![Image 2](./demo-images/image2.jpg)
+![Image 3](./demo-images/image3.jpg)
+![Image 4](./demo-images/image4.jpg)
 
 ## Direct App Download
 
