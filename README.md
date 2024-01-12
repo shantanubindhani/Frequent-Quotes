@@ -6,11 +6,10 @@ Supports both Light and Dark mode.
 
 ## Preview Images
 
-![Image 1](./demo-images/image1.jpg)
-![Image 2](./demo-images/image2.jpg)
-![Image 3](./demo-images/image3.jpg)
-![Image 4](./demo-images/image4.jpg)
+<img src= "./demo-images/image1.jpg" width=150/> <img src= "./demo-images/image3.jpg" width=150/>
+<img src= "./demo-images/image2.jpg" width=150/>
+<img src= "./demo-images/image4.jpg" width=150/>
 
 ## Direct App Download
 
-To directly use the app, you can download it [here](./build-apk/Frequent%20Quote.apk).
+To directly use the app, you can [download it here](./build-apk/Frequent%20Quote.apk).
