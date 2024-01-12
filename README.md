@@ -1,4 +1,4 @@
-# The Abbr App
+# Frequent Quotes App
 
 This is just an app you can use to cycle through some of the most famous and impactful quotes.
 </br></br>
